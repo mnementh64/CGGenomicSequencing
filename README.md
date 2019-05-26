@@ -1,5 +1,3 @@
 # Coding game
 
-Very hard puzzle Resistance kind of solution ...
-
-WARNING : not finished !
+Complete solution for [Coding Game genomics sequencing puzzle](https://www.codingame.com/ide/puzzle/genome-sequencing)
